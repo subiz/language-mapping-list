@@ -538,14 +538,6 @@
 			nativeName: 'Latviešu',
 			englishName: 'Latvian',
 		},
-		lo: {
-			nativeName: 'Lao',
-			englishName: 'Lao',
-		},
-		'lo-LA': {
-			nativeName: 'Lao',
-			englishName: 'Lao',
-		},
 		mai: {
 			nativeName: 'मैथिली, মৈথিলী',
 			englishName: 'Maithili',
@@ -901,6 +893,26 @@
 		'zu-ZA': {
 			nativeName: 'isiZulu',
 			englishName: 'Zulu',
+		},
+		lo: {
+			nativeName: 'Lao',
+			englishName: 'Lao',
+		},
+		'lo-LA': {
+			nativeName: 'Lao',
+			englishName: 'Lao',
+		},
+		aa: {
+			nativeName: '	ኤርትራ',
+			englishName: 'Afar',
+		},
+		'aa-ER': {
+			nativeName: 'ኤርትራ',
+			englishName: 'Afar',
+		},
+		ab: {
+			nativeName: 'Abkhazian',
+			nativeName: 'Abkhazian',
 		},
 	}
 })

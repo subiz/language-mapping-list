@@ -1,6 +1,6 @@
 {
 	"name": "@subiz/langmap",
-	"version": "0.0.17",
+	"version": "0.0.18",
 	"description": "List of all the known languages in their English and Native name with locales",
 	"main": "./language-mapping-list.js",
 	"repository": {
