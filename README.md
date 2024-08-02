@@ -5,7 +5,7 @@ List of all the known languages in their English and Native name with locales.
 
 There are over 200 languages available in the list.
 
-`$ npm install langmap`
+`$ npm install @subiz/langmap`
 
 Usage:
 
