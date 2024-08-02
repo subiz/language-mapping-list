@@ -794,6 +794,14 @@
 			nativeName: 'ภาษาไทย (ประเทศไทย)',
 			englishName: 'Thai (Thailand)',
 		},
+		tl: {
+			nativeName: 'Filipino',
+			englishName: 'Filipino',
+		},
+		'tl-PH': {
+			nativeName: 'Filipino',
+			englishName: 'Filipino',
+		},
 		fil: {
 			nativeName: 'Filipino',
 			englishName: 'Filipino',
@@ -913,6 +921,10 @@
 		'en-SG': {
 			nativeName: 'English (Singapore)',
 			englishName: 'English (Singapore)',
+		},
+		vo: {
+			nativeName: 'Volapük',
+			englishName: 'Volapuk',
 		},
 	}
 })
