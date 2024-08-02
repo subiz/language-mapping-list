@@ -20,3 +20,14 @@ var native = langmap["th"]["nativeName"];
 var native = langmap["th"]["englishName"];
 
 ```
+
+### What locales are missing?
+
+```sh
+node ./findMissing.js
+```
+
+### Note when adding new locales
+
+* Append to the bottom of the file './language-mapping-list.js'. *Do not* add to the middle
+* Build the proto in `github.com/subiz/header`: `docker build --progress=plain -t live360vn/protobuild:2.6 .`
